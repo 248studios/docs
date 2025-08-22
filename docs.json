@@ -45,5 +45,9 @@
       "instagram": "https://instagram.com/vabula.stories",
       "website": "https://vabula.de"
     }
+  },
+  "appearance": {
+    "default": "light",
+    "strict": true
   }
 }
